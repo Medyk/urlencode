@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python urlencode.py "$*"
+python /opt/urlencode/urlencode.py "$*"
